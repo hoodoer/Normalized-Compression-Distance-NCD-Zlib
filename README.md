@@ -1,4 +1,4 @@
-# Normalized-Compression-Distance---Zlib
+# Normalized-Compression-Distance-Zlib
 Simple C++ header file with a class that uses the Zlib compression algorithm to calculate Normalized Compression Distance (NCD) values
 
 
