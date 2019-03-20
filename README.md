@@ -25,7 +25,7 @@ Simple C++ header file with a class that uses the Zlib compression algorithm to 
    size restrictions with LZMA, and it's very
    accurate.
 
-   For more information on NCD, see www.complearn.org.
+   For more information on NCD, see https://complearn.org/ncd.html.
    They have excellent NCD implementations there.
    CompLearn.org is moving away from
    zlib and gzip implementations to
